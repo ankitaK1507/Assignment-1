@@ -1,4 +1,4 @@
-# Assignment-1
+in# Assignment-1
 Python programming 
 # Demonstration of different Python Data Types
 
@@ -39,7 +39,7 @@ print("Type:", type(tuple_value))
 print()
 
 # Dictionary
-dict_value = {"Name": "Shravani", "Age": 18, "Course": "Data Science"}
+dict_value = {"Name": "Ankita ", "Age": 18, "Course": "Data Science"}
 print("Dictionary value:", dict_value)
 print("Type:", type(dict_value))
 print()
@@ -69,7 +69,7 @@ Type: <class 'list'>
 Tuple value: (1, 2, 3, 'Data')
 Type: <class 'tuple'>
 
-Dictionary value: {'Name': 'Shravani', 'Age': 18, 'Course': 'Data Science'}
+Dictionary value: {'Name': 'Ankita', 'Age': 18, 'Course': 'Data Science'}
 Type: <class 'dict'>
 
 Set value: {1, 2, 3, 4, 5}
