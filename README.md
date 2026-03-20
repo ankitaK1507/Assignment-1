@@ -73,4 +73,4 @@ Dictionary value: {'Name': 'Ankita', 'Age': 18, 'Course': 'Data Science'}
 Type: <class 'dict'>
 
 Set value: {1, 2, 3, 4, 5}
-Type: <class 'set'>
+Type: <class 'set'> 
